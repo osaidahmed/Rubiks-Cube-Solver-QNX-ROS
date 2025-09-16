@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+*.o
+*.d
+rubiks-cube-solver
+my-project
+
+# VS Code workspace
+*.code-workspace
+
+# System libraries
+libSDL2-2.0.so.5
